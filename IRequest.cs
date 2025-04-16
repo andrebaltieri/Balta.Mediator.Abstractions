@@ -1,6 +1,3 @@
 ﻿namespace Mediator.Abstractions;
 
-public class Class1
-{
-
-}
+public interface IRequest<TResponse>;
