@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
 
     <PackageId>Balta.Mediator.Abstractions</PackageId>
-    <Version>1.0.0</Version>
-    <!-- <icon>https://</icon> -->
+    <Version>1.0.1</Version>
+    <icon>https://baltaio.blob.core.windows.net/static/images/icons/icone-novo-dark.png</icon> 
     <License>MIT</License>
     <Authors>André Baltieri</Authors>
     <Company>balta.io</Company>
