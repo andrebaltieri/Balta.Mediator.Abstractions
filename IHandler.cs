@@ -1,4 +1,4 @@
-﻿namespace Mediator.Abstractions;
+﻿namespace Balta.Mediator.Abstractions;
 
 
 public interface IHandler<in TRequest, TResponse>

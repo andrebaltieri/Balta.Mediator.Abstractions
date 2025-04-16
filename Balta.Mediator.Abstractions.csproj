@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>Mediator.Abstractions</PackageId>
+    <PackageId>Balta.Mediator.Abstractions</PackageId>
     <Version>1.0.0</Version>
     <!-- <icon>https://</icon> -->
     <License>MIT</License>
@@ -13,9 +13,9 @@
     <Company>balta.io</Company>
     <PackageDescription>Abstractions for Mediator Pattern implementations</PackageDescription>
     <Description>Abstractions for Mediator Pattern implementations</Description>
-    <RepositoryUrl>https://github.com/andrebaltieri/Mediator.Abstractions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/andrebaltieri/Balta.Mediator.Abstractions</RepositoryUrl>
     
-    <PackageProjectUrl>https://github.com/andrebaltieri/Mediator.Abstractions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/andrebaltieri/Balta.Mediator.Abstractions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>Mediator;Design Pattern;Domain;DDD;</PackageTags>
