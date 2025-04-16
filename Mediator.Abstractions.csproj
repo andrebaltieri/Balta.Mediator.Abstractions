@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Mediator.Abstractions</PackageId>
+    <Version>1.0.0</Version>
+    <!-- <icon>https://</icon> -->
+    <License>MIT</License>
+    <Authors>André Baltieri</Authors>
+    <Company>balta.io</Company>
+    <PackageDescription>Abstractions for Mediator Pattern implementations</PackageDescription>
+    <Description>Abstractions for Mediator Pattern implementations</Description>
+    <RepositoryUrl>https://github.com/andrebaltieri/Mediator.Abstractions</RepositoryUrl>
+    
+    <PackageProjectUrl>https://github.com/andrebaltieri/Mediator.Abstractions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>Mediator;Design Pattern;Domain;DDD;</PackageTags>
+    
+    <Title>Mediator.Abstractions</Title>
+    <Summary>Abstractions for Mediator Pattern implementations</Summary>
+  </PropertyGroup>
+
+</Project>
